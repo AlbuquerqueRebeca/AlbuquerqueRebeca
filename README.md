@@ -2,6 +2,7 @@
   ### Uma desenvolvedora Back-end 
 
 - 🌱 Atualmente estou aprendendo:  Progamação orientada a objetos / Stream API
+-  Linguagem : Java
 - 👨‍💻 Estou cursando Engenharia de Software
 - 📫 Como entrar em contato comigo: becalbuquerque_23@hotmail.com
 - 📝 Escrevo regularmente artigos: https://dev.to/albuquerquedev
