@@ -1,3 +1,7 @@
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/1f/d7/8e/1fd78e28449345cb772e60eb101b66b2.gif">
+
+
+
 ### 👋 Oiii, Me chamo Rebeca Albuquerque
 ###    Uma desenvolvedora Back-end  
 
