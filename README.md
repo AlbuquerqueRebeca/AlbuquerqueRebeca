@@ -1,5 +1,5 @@
 
-   <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/fd/e5/34/fde5344fb910f16b4fb4df233c5e2111.jpg"> 
+  
 
 
 ### 👋 Oiii, Me chamo Rebeca Albuquerque                                                                                                                                                  
