@@ -14,7 +14,7 @@
 - ☕ Linguagem : Java    
 - 👩🏻‍💻 Atualmente estou cursando:  Engenharia de Software
 - 📫 Como entrar em contato comigo: becalbuquerque_23@hotmail.com
-- 📝 Escrevo regularmente artigos: https://dev.to/albuquerquedev 
+- 📝 Escrevo artigos em: https://dev.to/albuquerquedev 
 
 
 
