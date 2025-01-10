@@ -2,7 +2,7 @@
   
 
 
-### 👋 Oiii, Me chamo Rebeca Albuquerque   
+### 🙋🏻‍♀️ Oiii, Me chamo Rebeca Albuquerque   
 
 ----------------------------------------------------------------
 <br><br>
