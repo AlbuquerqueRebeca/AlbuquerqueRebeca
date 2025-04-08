@@ -1,20 +1,26 @@
-
-  
-
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611b0ql6y2clwvb4p3yb4hzoxgw36197hfby3q3kie3&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Descrição do GIF" />
+</div>
+<br><br>
+<div align="center">
 
 ### 🙋🏻‍♀️ Oiii, Me chamo Rebeca Albuquerque   
 
 ----------------------------------------------------------------
+
 <br><br>
-
+<div align="left">
                               
-###    Uma Desenvolvedora Back-end  👩🏻‍💻
+### Uma Desenvolvedora Back-end  👩🏻‍💻
 
 
-- ☕ Linguagem : Java    
-- 👩🏻‍💻 Atualmente estou cursando:  Engenharia de Software
-- 📫 Como entrar em contato comigo: becalbuquerque_23@hotmail.com
-- 📝 Escrevo artigos em: https://dev.to/albuquerquedev 
+ ☕ Linguagem : Java
+ 
+ 👩🏻‍💻 Atualmente estou cursando:  Engenharia de Software
+ 
+ 📫 Como entrar em contato comigo: becalbuquerque_23@hotmail.com
+ 
+ 📝 Escrevo artigos em: https://dev.to/albuquerquedev 
 
 
 
@@ -59,18 +65,36 @@
 
 
 
-<br><br><br>
 
 
 
-<p align="center">
-  <img alt="Coding" width="400" src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif">
-</p>
 
 
-                                                                                                      
-                                                                
+
+
+
+ 
+
   
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
 
 
 
