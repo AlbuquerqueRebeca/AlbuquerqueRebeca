@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611b0ql6y2clwvb4p3yb4hzoxgw36197hfby3q3kie3&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Descrição do GIF" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611b0ql6y2clwvb4p3yb4hzoxgw36197hfby3q3kie3&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600"
+ alt="Descrição do GIF" />
 </div>
 <br><br>
 <div align="center">
@@ -11,22 +12,31 @@
 <br><br>
 <div align="left">
                               
-### Uma Desenvolvedora Back-end  👩🏻‍💻
-
-
- ☕ Linguagem : Java
- 
- 👩🏻‍💻 Atualmente estou cursando:  Engenharia de Software
- 
- 📫 Como entrar em contato comigo: becalbuquerque_23@hotmail.com
- 
- 📝 Escrevo artigos em: https://dev.to/albuquerquedev 
+### Desenvolvedora de Software Backend com foco em Java e Spring Boot 👩🏻‍💻
 
 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Graduanda em Engenharia de Software, com experiência no desenvolvimento de APIs, autenticação, segurança e persistência de dados.  Utilizo projetos práticos para consolidar meus estudos e evoluir continuamente na área de backend.
 
-<br>
+<img align="right" alt="Coding" width="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGNjdjJ3eXc5dGo2MjRwY3V3YTZqdG1iaDl6YXBrd2hvdjY5M2FxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif">
+
+
+📌 Tecnologias: Java, Spring Boot, Spring Security, Spring Data JPA, SQL
+
+📂 Projetos: APIs REST, autenticação com JWT, CRUD de usuários
+
+✍️ Artigos: https://dev.to/albuquerquedev
+
+📫 Contato: becalbuquerque_23@hotmail.com
+
+
+
+
+
+
+
+
+<br><br><br><br><br>
 
 
 
@@ -54,13 +64,6 @@
 
 
 
----------------------------------------------------------------------------------------------------------------------------------
-
-<br>
-
-
-
-![Albuquerque GitHub stats](https://github-readme-stats.vercel.app/api?username=AlbuquerqueRebeca&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbuquerqueRebeca&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
 
@@ -68,19 +71,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
- 
-
-  
 
 
 
