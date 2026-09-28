@@ -21,7 +21,7 @@ Tecnologias: Java, Spring Boot, Spring Security, Spring Data JPA, SQL, JWT, APIs
 
 <img align="right" alt="Coding" width="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGNjdjJ3eXc5dGo2MjRwY3V3YTZqdG1iaDl6YXBrd2hvdjY5M2FxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif">
 
-
+<br><br>
 
 📂 Projetos: APIs REST, autenticação com JWT, CRUD, armazenamento em nuvem e integração com IA generativa
 
@@ -36,7 +36,7 @@ Tecnologias: Java, Spring Boot, Spring Security, Spring Data JPA, SQL, JWT, APIs
 
 
 
-<br><br><br><br><br><br>
+<br><br><br><br>
 
 
 
