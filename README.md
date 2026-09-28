@@ -15,9 +15,6 @@
 ### Desenvolvedora de Software Backend com foco em Java e Spring Boot 👩🏻‍💻
 
 
-
- ### Desenvolvedora de Software Backend com foco em Java e Spring Boot 👩🏻‍💻
-
 Graduanda em Engenharia de Software, com experiência no desenvolvimento de APIs, autenticação, segurança, persistência de dados, armazenamento em nuvem e integração com Inteligência Artificial Generativa. Utilizo projetos práticos para consolidar meus estudos e evoluir continuamente na área de backend.
 
 Tecnologias: Java, Spring Boot, Spring Security, Spring Data JPA, SQL, JWT, APIs REST, Git/GitHub, testes automatizados, armazenamento em nuvem e integração com APIs de IA.
