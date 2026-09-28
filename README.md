@@ -16,14 +16,17 @@
 
 
 
- Graduanda em Engenharia de Software, com experiência no desenvolvimento de APIs, autenticação, segurança e persistência de dados.  Utilizo projetos práticos para consolidar meus estudos e evoluir continuamente na área de backend.
+ ### Desenvolvedora de Software Backend com foco em Java e Spring Boot 👩🏻‍💻
+
+Graduanda em Engenharia de Software, com experiência no desenvolvimento de APIs, autenticação, segurança, persistência de dados, armazenamento em nuvem e integração com Inteligência Artificial Generativa. Utilizo projetos práticos para consolidar meus estudos e evoluir continuamente na área de backend.
+
+Tecnologias: Java, Spring Boot, Spring Security, Spring Data JPA, SQL, JWT, APIs REST, Git/GitHub, testes automatizados, armazenamento em nuvem e integração com APIs de IA.
 
 <img align="right" alt="Coding" width="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGNjdjJ3eXc5dGo2MjRwY3V3YTZqdG1iaDl6YXBrd2hvdjY5M2FxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif">
 
 
-📌 Tecnologias: Java, Spring Boot, Spring Security, Spring Data JPA, SQL
 
-📂 Projetos: APIs REST, autenticação com JWT, CRUD de usuários
+📂 Projetos: APIs REST, autenticação com JWT, CRUD, armazenamento em nuvem e integração com IA generativa
 
 ✍️ Artigos: https://dev.to/albuquerquedev
 
