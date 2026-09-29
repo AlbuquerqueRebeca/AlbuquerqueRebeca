@@ -15,15 +15,19 @@
 ### Desenvolvedora de Software Backend com foco em Java e Spring Boot 👩🏻‍💻
 
 
-Graduanda em Engenharia de Software, com experiência no desenvolvimento de APIs, autenticação, segurança, persistência de dados, armazenamento em nuvem e integração com Inteligência Artificial Generativa. Utilizo projetos práticos para consolidar meus estudos e evoluir continuamente na área de backend.
+Graduanda em Engenharia de Software, com foco em desenvolvimento Backend e experiência prática na construção de APIs REST com Java e Spring Boot. Desenvolvo projetos envolvendo autenticação e segurança com Spring Security e JWT, persistência de dados, bancos relacionais, armazenamento em nuvem e integração com APIs de Inteligência Artificial Generativa.
 
-Tecnologias: Java, Spring Boot, Spring Security, Spring Data JPA, SQL, JWT, APIs REST, Git/GitHub, testes automatizados, armazenamento em nuvem e integração com APIs de IA.
+Utilizo projetos práticos para aplicar conceitos de Programação Orientada a Objetos, desenvolvimento de APIs, segurança, persistência e testes automatizados.
+
+Tecnologias: Java 17, Spring Boot, Spring Security, Spring Data JPA, APIs REST, JWT, SQL, PostgreSQL, MySQL, Git/GitHub, JUnit 5, Swagger/OpenAPI, Gradle, Maven, armazenamento e deploy em nuvem e integração com APIs de IA.
+
+📂 Projetos: APIs REST, autenticação com JWT, CRUD, persistência de dados, armazenamento em nuvem, integração com IA generativa e deploy em nuvem.
 
 <img align="right" alt="Coding" width="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGNjdjJ3eXc5dGo2MjRwY3V3YTZqdG1iaDl6YXBrd2hvdjY5M2FxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif">
 
 <br><br>
 
-📂 Projetos: APIs REST, autenticação com JWT, CRUD, armazenamento em nuvem e integração com IA generativa
+📂 Projetos: APIs REST, autenticação com JWT, CRUD, persistência de dados, armazenamento em nuvem, integração com IA generativa e deploy em nuvem.
 
 ✍️ Artigos: https://dev.to/albuquerquedev
 
